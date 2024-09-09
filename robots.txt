@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://szaofb.github.io/kJH/sitemap.kJH.gz
